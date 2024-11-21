@@ -1,0 +1,6 @@
+#For Production
+node_modules
+dist
+
+#For Environment Variables
+.env
